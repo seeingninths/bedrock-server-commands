@@ -111,6 +111,6 @@
 /weather <clear|rain|thunder> [duration: int]
 /weather query
 /whitelist <action: WhitelistAction> [name: string]
-/wsserver <serverUri: text>
+/wsserver <serverUrl: text>
 /xp <amount: int> [player: target]
 /xp <amount: int>L [player: target]
